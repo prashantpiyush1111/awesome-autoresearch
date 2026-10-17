@@ -54,6 +54,7 @@
 
 ## 🔬 Research-agent systems
 
+- [0xmariowu/Autosearch](https://github.com/0xmariowu/Autosearch) - Self-evolving deep-research agent that searches 40 channels, evaluates results, synthesizes cited reports, and carries search-strategy lessons across sessions. ![GitHub stars](https://img.shields.io/github/stars/0xmariowu/Autosearch?style=social)
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - End-to-end research pipeline that turns a topic into literature review, experiments, analysis, peer review, and paper drafts; broader than autoresearch, but clearly in the same lineage. ![GitHub stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social)
 - [OpenLAIR/dr-claw](https://github.com/OpenLAIR/dr-claw) - Open-source research workspace with sequential idea-to-paper pipelines and integrated autoresearch tool packs. ![GitHub stars](https://img.shields.io/github/stars/OpenLAIR/dr-claw?style=social)
 - [OpenRaiser/NanoResearch](https://github.com/OpenRaiser/NanoResearch) - End-to-end autonomous research engine that plans experiments, generates code, runs jobs locally or on SLURM, analyzes real results, and writes papers grounded in those outputs. ![GitHub stars](https://img.shields.io/github/stars/OpenRaiser/NanoResearch?style=social)
